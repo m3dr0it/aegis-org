@@ -1,0 +1,163 @@
+{
+  "individualResults": [
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "Create table users",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__Create_table_users.sql",
+          "executionTime": 46
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T14:26:05.439764700",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "init",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__init.sql",
+          "executionTime": 63
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T14:39:42.329252100",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": "1",
+      "targetSchemaVersion": null,
+      "schemaName": "",
+      "migrations": [],
+      "migrationsExecuted": 0,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T14:52:44.768474400",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "init",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__init.sql",
+          "executionTime": 45
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T15:03:29.517045100",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "init",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__init.sql",
+          "executionTime": 26
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T16:28:06.280193800",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "init",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__init.sql",
+          "executionTime": 41
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T16:51:01.544886500",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    },
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "init",
+          "type": "SQL",
+          "filepath": "C:\\Users\\IFGLife\\Software Development\\github\\org\\src\\main\\resources\\migration\\.\\V1__init.sql",
+          "executionTime": 25
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.22.2",
+      "database": "postgres",
+      "warnings": [],
+      "timestamp": "2024-07-17T19:03:56.349739500",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
